@@ -1,1 +1,3 @@
 #!/usr/bin/python3 >>> interpretador python
+
+setxkbmap -model abnt2 -layout br >>> mudar o teclado para portugues
