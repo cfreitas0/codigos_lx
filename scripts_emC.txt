@@ -1,0 +1,13 @@
+
+    INTRODUÇAO A LINGUAGEM C
+
+>> 01
+#include <stdio.h>
+
+int main(){
+        char alvo[] = "google.com";
+        int porta = 90;
+        printf("iniciando ataque no alvo >> %s", alvo);
+        printf("na porta >>> %d", porta);
+        return 0;
+}
