@@ -11,3 +11,20 @@ int main(){
         printf("na porta >>> %d", porta);
         return 0;
 }
+
+>> 02
+#include <stdio.h>
+
+int main () {
+
+        char alvo[100];
+        int porta;
+
+        printf("Digite o nome do alvo:\n");
+        scanf("%s", &alvo);
+
+        printf("Digite o nome da porta:\n");
+        scanf("%i", &porta);
+        printf(" >>> iniciando atak no -> %s, na porta -> %i", alvo, port>
+        return 0;
+}
