@@ -1,7 +1,7 @@
 
-    INTRODUÇAO A LINGUAGEM C
+           >>> INTRODUÇAO A LINGUAGEM C <<<
 
->> 01
+           >> 01 PASSAGEM DE ARGUMENTOS <<
 #include <stdio.h>
 
 int main(){
@@ -12,7 +12,7 @@ int main(){
         return 0;
 }
 
->> 02
+
 #include <stdio.h>
 
 int main () {
@@ -26,5 +26,19 @@ int main () {
         printf("Digite o nome da porta:\n");
         scanf("%i", &porta);
         printf(" >>> iniciando atak no -> %s, na porta -> %i", alvo, port>
+        return 0;
+}
+
+            >> 02 LACOS DE REPETICAO <<
+
+#include <stdio.h>
+
+int main (){
+        int contador = 0;
+
+        while(contador <= 10){
+        printf("%i\n", contador);
+        contador++;
+}
         return 0;
 }

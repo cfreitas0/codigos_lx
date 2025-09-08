@@ -1,0 +1,7 @@
+#!/usr/bin/python3 >>> interpretador python
+
+a = int(input('Digite o primeiro valor: '))
+b = int(input('Digite outro valor: '))
+
+res = a + b
+print ('A soma do primeiro com o segundo valor eh: ', res)
