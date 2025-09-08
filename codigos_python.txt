@@ -1,5 +1,7 @@
 #!/usr/bin/python3 >>> interpretador python
 
+          >> PASSAGEM DE ARGUMENTOS <<
+
 a = int(input('Digite o primeiro valor: '))
 b = int(input('Digite outro valor: '))
 
